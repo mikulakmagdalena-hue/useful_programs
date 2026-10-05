@@ -9,6 +9,13 @@ natomiast natężenie to $i=\frac{q}{t}$. Nie można zapominać, iż  $x=\frac{-
 - elektron
 - neutron
 
+| Symbol | Jednostka | Nazwa | Dział Fizyki |
+|---|---|---|---|
+| $q$ | $\mathrm{C}$ | Ilość ładunku| Elektromagnetyzm |
+| $F$ | $\mathrm{N}$ | Siła | Mehchanika|
+
+
+
 1. Prawo Columba
 2. Prawo Ampera
 3. Prawo Maxwella
