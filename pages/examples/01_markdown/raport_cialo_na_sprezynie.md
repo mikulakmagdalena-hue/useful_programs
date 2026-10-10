@@ -74,7 +74,9 @@ Nie należy mylić $f$ z $\omega_0$: zachodzi $\omega_0=2\pi f$.
 
 Siła sprężystości jest proporcjonalna do wychylenia i ma przeciwny zwrot:
 
-$ F_s=-kx.$$
+$$
+F_s=-kx.
+$$
 
 Z drugiej zasady Newtona otrzymujemy:
 
