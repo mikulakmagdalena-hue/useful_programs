@@ -1,5 +1,5 @@
 # Transkrypcja
-
+![Notatka](zrzut.png)
 
 ## Prompt użyty do wygenerowania tekstu przez AI
 ```
