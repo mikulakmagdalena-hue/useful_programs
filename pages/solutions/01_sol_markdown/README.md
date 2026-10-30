@@ -5,6 +5,7 @@
 natomiast natężenie to $i=\frac{q}{t}$. Nie można zapominać, iż  $x=\frac{-b\pm \sqrt{\Delta}}{2a}$
 
 ### Kwantowa natura ładunku
+Zgodnie z modelem atomu Bora wyszczególniamy owe cząstki:
 - proton
 - elektron
 - neutron
@@ -31,10 +32,11 @@ $$v=\frac{\mathrm{d}x}{\mathrm{d}t}$$
 $$Q=k_b\ln(\Omega)$$
 
 ```python
-x=input(podaj liczbę A)
+x=input("podaj liczbę A")
 print(x)
 ```
 $$-1\le \sin(\beta)  \le 1$$ 
 
 ![Wykres](wykres.png)
+
 
