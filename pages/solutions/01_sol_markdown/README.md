@@ -24,8 +24,6 @@ Zgodnie z modelem atomu Bohra wyszczególniamy owe cząstki:
 2. Prawo Ampera
 3. Prawo Maxwella
 
-$$v=\frac{\mathrm{d}x}{\mathrm{d}t}$$
-
 - [x] Siła Grawitacyjna
 - [ ] Siła jądrowa
 - [x] siła magnetyczna
@@ -36,9 +34,11 @@ $$
 a^2 + b^2 = c^2
 $$
 
+
 $$
 E = mc^2
 $$
+
 
 $$
 e^{i\pi} + 1 = 0
@@ -48,6 +48,7 @@ $$
 x=input("podaj liczbę A")
 print(x)
 ```
+
 $$
 -1\le \sin(\beta)  \le 1
 $$ 
