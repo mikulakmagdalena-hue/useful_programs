@@ -33,21 +33,15 @@ $$v=\frac{\mathrm{d}x}{\mathrm{d}t}$$
 [Google Colab](http://colab.research.google.com/)
 
 $$
-
 a^2 + b^2 = c^2
-
 $$
 
 $$
-
 E = mc^2
-
 $$
 
 $$
-
 e^{i\pi} + 1 = 0
-
 $$
 
 ```python
@@ -55,9 +49,7 @@ x=input("podaj liczbę A")
 print(x)
 ```
 $$
-
 -1\le \sin(\beta)  \le 1
-
 $$ 
 
 ![Wykres](wykres.png)
