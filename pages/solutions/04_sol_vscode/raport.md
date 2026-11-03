@@ -2,9 +2,9 @@
 
 **Autor:** [Magdalena Mikulak]  
 **Parametry początkowe (wyznaczone na podstawie nr indeksu):**  
-- Prędkość początkowa: $v_0 = 36.0\text{ m/s}$  
+- Prędkość początkowa: $v_0 = 36.0\mathrm{ m/s}$  
 - Kąt wyrzutu: $\alpha = 41.0^\circ$ 
-- Przyspieszenie ziemskie: $g = 9.81\text{ m/s}^2$  
+- Przyspieszenie ziemskie: $g = 9.81\mathrm{ m/s}^2$  
 
 ---
 
