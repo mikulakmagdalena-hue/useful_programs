@@ -1,12 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# ==========================================
-# 1. PARAMETRY WEJŚCIOWE (Dostosuj do indeksu)
-# ==========================================
-# Przykład dla indeksu 123456:
-# Pierwsze dwie cyfry: 12 -> v0 = 12 m/s
-# Dwie ostatnie cyfry: 56 -> alpha = 56 deg
+
 v0 = 36.0          # [m/s] Prędkość początkowa (2 pierwsze cyfry indeksu)
 alpha_deg = 41.0   # [deg] Kąt wyrzutu (2 ostatnie cyfry indeksu)
 
@@ -95,7 +90,7 @@ fig, axs = plt.subplots(1, 2, figsize=(12, 4))
 
 axs[0].plot(t_no_drag, vx_no_drag, 'b-', label='Bez oporu')
 axs[0].plot(t_drag, vx_drag, 'r--', label='Z oporem')
-axs[0].set_title('Składowa poziom $v_x(t)$')
+axs[0].set_title('Składowa pozioma $v_x(t)$')
 axs[0].set_xlabel('Czas $t$ [s]')
 axs[0].set_ylabel('$v_x$ [m/s]')
 axs[0].legend()
